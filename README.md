@@ -9,3 +9,8 @@
 2. Rahul Chaudhari
 3. Naveen Kumar
 4. Maninder singh
+
+* School and College
+* Community center
+* National Sports Complexes
+* Sports ground
