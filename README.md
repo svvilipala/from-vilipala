@@ -38,3 +38,12 @@ The table below lists some of my favorite restaurants that serve famous biryani.
 > I want to be the best. But there’s a good chance I’ll be a disaster - *Tina Fey*
 
 > I don’t think I’m a very good person. I mean, I’m not a terrible person. I’m not the worst person. But I’m definitely not the best person - *David Sedaris*
+
+----
+# Code Fencing
+
+The Delete command in SQL is used to delete existing records in a table. The WHERE clause is used in the DELETE statement to indicate which records should be removed. All records in the table will be deleted if the WHERE clause is not included.
+
+```DELETE FROM table_name WHERE condition;```
+
+[Snippet](https://code.pieces.app/collections/sql)
