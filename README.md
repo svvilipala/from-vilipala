@@ -29,3 +29,12 @@ The table below lists some of my favorite restaurants that serve famous biryani.
 | Paradise | Hyderabad is home to several locations of the renowned biryani restaurant Paradise, which serves some of the best biryani around. In 1953, this paradise biryani was first served.  | Hyderabad, India |
 | Shivaji Military Hotel | S Mannaji Rao, a Maratha, founded the "Shivaji Military Hotel" one of the oldest military hotels in Jayanagar, in 1924. Donne biryani is famous in this place. | Bengaluru, India | 
 | Andhra Chicken Biryani| Andhra Chicken Biryani  is a pot dish but also look like a chicken pulao but it is actually a biryani made with spices and bone-in chicken. Famous dishes include spicy chicken 65 and biryani gravy. | Andhra Pradesh, India |
+
+-------
+# Jokes or Humorous quotes
+
+> I can resist anything except temptation - *Oscar Wilde*
+
+> I want to be the best. But there’s a good chance I’ll be a disaster - *Tina Fey*
+
+> I don’t think I’m a very good person. I mean, I’m not a terrible person. I’m not the worst person. But I’m definitely not the best person - *David Sedaris*
