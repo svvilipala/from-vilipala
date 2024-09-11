@@ -44,6 +44,8 @@ The table below lists some of my favorite restaurants that serve famous biryani.
 
 The Delete command in SQL is used to delete existing records in a table. The WHERE clause is used in the DELETE statement to indicate which records should be removed. All records in the table will be deleted if the WHERE clause is not included.
 
-```DELETE FROM table_name WHERE condition;```
+```SELECT COUNT(column_name)
+FROM table_name
+WHERE condition;```
 
 [Snippet](https://code.pieces.app/collections/sql)
